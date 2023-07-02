@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💼Vue.js 3 "EDIT OBJECT DATA"</h1>
+<h1 align="center">🖊Vue.js 3 "EDIT OBJECT DATA"</h1>
 
 <br>
 <p align="center">
